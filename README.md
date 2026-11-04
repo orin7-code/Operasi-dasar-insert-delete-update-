@@ -1,6 +1,14 @@
 # OPERASI DASAR
 ## INSERT, DELETE, DAN UPDATE
 
+### IDENTITAS MAHASISWA
+
+- **Nama:** Orin Rismaya
+- **NIM:** C2583207046
+- **Mata Kuliah:** Algoritma dan Pemrograman Lanjut
+- **Bahasa Pemrograman:** C
+- **Software:** Code::Blocks
+
 ### 1. INSERT
 Insert merupakan operasi untuk menambahkan data baru ke dalam array.
 
